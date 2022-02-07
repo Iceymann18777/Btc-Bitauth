@@ -2,29 +2,29 @@
   "name": "bitauth",
   "description": "Passwordless authentication using Bitcoin cryptography",
   "author": {
-    "name": "Patrick Nagurny",
+    "name": "Adam Khader",
     "email": "patrick@bitpay.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitauth.git"
+    "url": "https://github.com/iceymann18777/btc-bitauth.git"
   },
   "contributors": [
     {
-      "name": "Eric Martindale",
-      "email": "eric@ericmartindale.com"
+      "name": "Adam Khader",
+      "email": "adamkhader@newbtcs.com"
     },
     {
-      "name": "Gordon Hall",
-      "email": "gordon@bitpay.com"
+      "name": "Adam Khader",
+      "email": "adamkhader@newbtcs.com"
     },
     {
-      "name": "Braydon Fuller",
-      "email": "braydon@bitpay.com"
+      "name": "Adam Khader",
+      "email": "adamkhader@newbtcs.com"
     },
     {
-      "name": "Rob Riddle",
-      "email": "rob@bitpay.com"
+      "name": "Adam Khader",
+      "email": "adamkhader@newbtcs.com"
     }
   ],
   "scripts": {
